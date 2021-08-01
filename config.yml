@@ -1,0 +1,12 @@
+net:
+  host: 5.196.239.159
+  port: 22
+  pollRate: 1
+  timeout: 1
+sql:
+  host: 
+  port: 1
+  user: 1
+  password: 1
+  database: 1
+logAll: true
